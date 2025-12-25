@@ -1,0 +1,8 @@
+{
+  "name": "الحديقة المرعبة - AI Horror Garden",
+  "description": "منصة فيديوهات الرعب المتطورة مع نظام تحليل ذكي مدعوم بـ Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
